@@ -1,5 +1,5 @@
-# Feature Selection 
-# =================
+## Feature Selection 
+## =================
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
@@ -28,7 +28,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: 
+## The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
 std(): Standard deviation
@@ -48,7 +48,7 @@ kurtosis(): kurtosis of the frequency domain signal
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 angle(): Angle between to vectors.
 
-Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
+## Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 gravityMean
 tBodyAccMean
@@ -56,11 +56,11 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-The complete list of variables used in producing the tidydata dataset is:
+## The complete list of variables used in producing the tidydata dataset is:
 
-id
-activity
-tBodyAcc.std...X_mean
+id 
+activity 
+tBodyAcc.std...X_mean 
 tBodyAcc.std...Y_mean
 tBodyAcc.std...Z_mean
 tGravityAcc.std...X_mean
