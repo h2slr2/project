@@ -59,83 +59,83 @@ tBodyGyroJerkMean
 ## The complete list of variables used in producing the tidydata dataset is:
 
 id <br/>
-activity  <br>
-tBodyAcc.std...X_mean \r\n
-tBodyAcc.std...Y_mean
-tBodyAcc.std...Z_mean
-tGravityAcc.std...X_mean
-tGravityAcc.std...Y_mean
-tGravityAcc.std...Z_mean
-tBodyAccJerk.std...X_mean
-tBodyAccJerk.std...Y_mean
-tBodyAccJerk.std...Z_mean
-tBodyGyro.std...X_mean
-tBodyGyro.std...Y_mean
-tBodyGyro.std...Z_mean
-tBodyGyroJerk.std...X_mean
-tBodyGyroJerk.std...Y_mean
-tBodyGyroJerk.std...Z_mean
-tBodyAccMag.std.._mean
-tGravityAccMag.std.._mean
-tBodyAccJerkMag.std.._mean
-tBodyGyroMag.std.._mean
-tBodyGyroJerkMag.std.._mean
-fBodyAcc.std...X_mean
-fBodyAcc.std...Y_mean
-fBodyAcc.std...Z_mean
-fBodyAccJerk.std...X_mean
-fBodyAccJerk.std...Y_mean
-fBodyAccJerk.std...Z_mean
-fBodyGyro.std...X_mean
-fBodyGyro.std...Y_mean
-fBodyGyro.std...Z_mean
-fBodyAccMag.std.._mean
-fBodyBodyAccJerkMag.std.._mean
-fBodyBodyGyroMag.std.._mean
-fBodyBodyGyroJerkMag.std.._mean
-tBodyAcc.mean...X_mean
-tBodyAcc.mean...Y_mean
-tBodyAcc.mean...Z_mean
-tGravityAcc.mean...X_mean
-tGravityAcc.mean...Y_mean
-tGravityAcc.mean...Z_mean
-tBodyAccJerk.mean...X_mean
-tBodyAccJerk.mean...Y_mean
-tBodyAccJerk.mean...Z_mean
-tBodyGyro.mean...X_mean
-tBodyGyro.mean...Y_mean
-tBodyGyro.mean...Z_mean
-tBodyGyroJerk.mean...X_mean
-tBodyGyroJerk.mean...Y_mean
-tBodyGyroJerk.mean...Z_mean
-tBodyAccMag.mean.._mean
-tGravityAccMag.mean.._mean
-tBodyAccJerkMag.mean.._mean
-tBodyGyroMag.mean.._mean
-tBodyGyroJerkMag.mean.._mean
-fBodyAcc.mean...X_mean
-fBodyAcc.mean...Y_mean
-fBodyAcc.mean...Z_mean
-fBodyAcc.meanFreq...X_mean
-fBodyAcc.meanFreq...Y_mean
-fBodyAcc.meanFreq...Z_mean
-fBodyAccJerk.mean...X_mean
-fBodyAccJerk.mean...Y_mean
-fBodyAccJerk.mean...Z_mean
-fBodyAccJerk.meanFreq...X_mean
-fBodyAccJerk.meanFreq...Y_mean
-fBodyAccJerk.meanFreq...Z_mean
-fBodyGyro.mean...X_mean
-fBodyGyro.mean...Y_mean
-fBodyGyro.mean...Z_mean
-fBodyGyro.meanFreq...X_mean
-fBodyGyro.meanFreq...Y_mean
-fBodyGyro.meanFreq...Z_mean
-fBodyAccMag.mean.._mean
-fBodyAccMag.meanFreq.._mean
-fBodyBodyAccJerkMag.mean.._mean
-fBodyBodyAccJerkMag.meanFreq.._mean
-fBodyBodyGyroMag.mean.._mean
-fBodyBodyGyroMag.meanFreq.._mean
-fBodyBodyGyroJerkMag.mean.._mean
-fBodyBodyGyroJerkMag.meanFreq.._mean
+activity <br/>
+tBodyAcc.std...X_mean <br/>
+tBodyAcc.std...Y_mean <br/>
+tBodyAcc.std...Z_mean <br/>
+tGravityAcc.std...X_mean <br/>
+tGravityAcc.std...Y_mean <br/>
+tGravityAcc.std...Z_mean <br/>
+tBodyAccJerk.std...X_mean <br/>
+tBodyAccJerk.std...Y_mean <br/>
+tBodyAccJerk.std...Z_mean <br/>
+tBodyGyro.std...X_mean <br/>
+tBodyGyro.std...Y_mean <br/>
+tBodyGyro.std...Z_mean <br/>
+tBodyGyroJerk.std...X_mean <br/>
+tBodyGyroJerk.std...Y_mean <br/>
+tBodyGyroJerk.std...Z_mean <br/>
+tBodyAccMag.std.._mean <br/>
+tGravityAccMag.std.._mean <br/>
+tBodyAccJerkMag.std.._mean <br/>
+tBodyGyroMag.std.._mean <br/>
+tBodyGyroJerkMag.std.._mean <br/>
+fBodyAcc.std...X_mean <br/>
+fBodyAcc.std...Y_mean <br/>
+fBodyAcc.std...Z_mean <br/>
+fBodyAccJerk.std...X_mean <br/>
+fBodyAccJerk.std...Y_mean <br/>
+fBodyAccJerk.std...Z_mean <br/>
+fBodyGyro.std...X_mean <br/>
+fBodyGyro.std...Y_mean <br/>
+fBodyGyro.std...Z_mean <br/>
+fBodyAccMag.std.._mean <br/>
+fBodyBodyAccJerkMag.std.._mean <br/>
+fBodyBodyGyroMag.std.._mean <br/>
+fBodyBodyGyroJerkMag.std.._mean <br/>
+tBodyAcc.mean...X_mean <br/>
+tBodyAcc.mean...Y_mean <br/>
+tBodyAcc.mean...Z_mean <br/>
+tGravityAcc.mean...X_mean <br/>
+tGravityAcc.mean...Y_mean <br/>
+tGravityAcc.mean...Z_mean <br/>
+tBodyAccJerk.mean...X_mean <br/>
+tBodyAccJerk.mean...Y_mean <br/>
+tBodyAccJerk.mean...Z_mean <br/>
+tBodyGyro.mean...X_mean <br/>
+tBodyGyro.mean...Y_mean <br/>
+tBodyGyro.mean...Z_mean <br/>
+tBodyGyroJerk.mean...X_mean <br/>
+tBodyGyroJerk.mean...Y_mean <br/>
+tBodyGyroJerk.mean...Z_mean <br/>
+tBodyAccMag.mean.._mean <br/>
+tGravityAccMag.mean.._mean <br/>
+tBodyAccJerkMag.mean.._mean <br/>
+tBodyGyroMag.mean.._mean <br/>
+tBodyGyroJerkMag.mean.._mean <br/>
+fBodyAcc.mean...X_mean <br/>
+fBodyAcc.mean...Y_mean <br/>
+fBodyAcc.mean...Z_mean <br/>
+fBodyAcc.meanFreq...X_mean <br/>
+fBodyAcc.meanFreq...Y_mean <br/>
+fBodyAcc.meanFreq...Z_mean <br/>
+fBodyAccJerk.mean...X_mean <br/>
+fBodyAccJerk.mean...Y_mean <br/>
+fBodyAccJerk.mean...Z_mean <br/>
+fBodyAccJerk.meanFreq...X_mean <br/>
+fBodyAccJerk.meanFreq...Y_mean <br/>
+fBodyAccJerk.meanFreq...Z_mean <br/>
+fBodyGyro.mean...X_mean <br/>
+fBodyGyro.mean...Y_mean <br/>
+fBodyGyro.mean...Z_mean <br/>
+fBodyGyro.meanFreq...X_mean <br/>
+fBodyGyro.meanFreq...Y_mean <br/>
+fBodyGyro.meanFreq...Z_mean <br/>
+fBodyAccMag.mean.._mean <br/>
+fBodyAccMag.meanFreq.._mean <br/>
+fBodyBodyAccJerkMag.mean.._mean <br/>
+fBodyBodyAccJerkMag.meanFreq.._mean <br/>
+fBodyBodyGyroMag.mean.._mean <br/>
+fBodyBodyGyroMag.meanFreq.._mean <br/>
+fBodyBodyGyroJerkMag.mean.._mean <br/>
+fBodyBodyGyroJerkMag.meanFreq.._mean <br/>
