@@ -58,9 +58,9 @@ tBodyGyroJerkMean
 
 ## The complete list of variables used in producing the tidydata dataset is:
 
-id 
-activity 
-tBodyAcc.std...X_mean 
+id <br/>
+activity  <br>
+tBodyAcc.std...X_mean \r\n
 tBodyAcc.std...Y_mean
 tBodyAcc.std...Z_mean
 tGravityAcc.std...X_mean
